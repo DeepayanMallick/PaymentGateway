@@ -1,5 +1,5 @@
 
-## About Laravel
+## How To Setup Laravel project
 
 1. run `composer install` to generate dependencies in vendor folder
 2. change .env.example to .env
